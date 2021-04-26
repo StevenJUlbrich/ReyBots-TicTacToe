@@ -4,8 +4,8 @@ class Main {
 	  
 	public static void main(String[] args) {
 		
-		//Create a 3x3 array that 
-		//represents our tic tac toe board
+		//Create a 3x3 array that represents our tic tac toe board
+		//
 		char[][] board = new char[3][3];
         
 		
